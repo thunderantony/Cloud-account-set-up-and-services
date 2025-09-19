@@ -94,7 +94,7 @@ o	Wide choice of VM sizes and operating systems.
 
 o	Supports hybrid cloud with on-premises integration.
 
-o	Customizable CPU, memory, and storage options.
+o	Customizable CPU, memory, and storage options
 
 #### *Advantages:*
 
